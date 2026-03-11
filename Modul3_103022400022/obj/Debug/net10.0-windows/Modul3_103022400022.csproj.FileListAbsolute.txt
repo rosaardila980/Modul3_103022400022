@@ -1,0 +1,7 @@
+C:\Users\Rosa Ardila\source\repos\Modul3_103022400022\Modul3_103022400022\obj\Debug\net10.0-windows\Modul3_103022400022.Form1.resources
+C:\Users\Rosa Ardila\source\repos\Modul3_103022400022\Modul3_103022400022\obj\Debug\net10.0-windows\Modul3_103022400022.csproj.GenerateResource.cache
+C:\Users\Rosa Ardila\source\repos\Modul3_103022400022\Modul3_103022400022\obj\Debug\net10.0-windows\Modul3_103022400022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa Ardila\source\repos\Modul3_103022400022\Modul3_103022400022\obj\Debug\net10.0-windows\Modul3_103022400022.AssemblyInfoInputs.cache
+C:\Users\Rosa Ardila\source\repos\Modul3_103022400022\Modul3_103022400022\obj\Debug\net10.0-windows\Modul3_103022400022.AssemblyInfo.cs
+C:\Users\Rosa Ardila\source\repos\Modul3_103022400022\Modul3_103022400022\obj\Debug\net10.0-windows\Modul3_103022400022.csproj.CoreCompileInputs.cache
+C:\Users\Rosa Ardila\source\repos\Modul3_103022400022\Modul3_103022400022\obj\Debug\net10.0-windows\Modul3_103022400022.sourcelink.json
